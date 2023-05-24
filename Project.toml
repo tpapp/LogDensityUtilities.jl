@@ -12,6 +12,10 @@ SimpleUnPack = "ce78b400-467f-4804-87d8-8f486da07d0a"
 
 [compat]
 julia = "1.6"
+Distributions = "0.25"
+DocStringExtensions = "0.9"
+LogDensityProblems = "2"
+SimpleUnPack = "1"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
